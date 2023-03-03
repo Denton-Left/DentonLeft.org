@@ -1,0 +1,26 @@
+{
+  "name": "Eleventy Excellent - Starter based on buildexcellentwebsite.es",
+  "short_name": "Eleventy Excellent",
+  "start_url": "https://eleventy-excellent.netlify.app",
+  "icons": [
+    {
+      "src": "/MASH Star.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/MASH Star.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/MASH Star.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ae0004",
+  "background_color": "#ae0004",
+  "display": "standalone"
+}

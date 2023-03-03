@@ -1,0 +1,17 @@
+[
+  {
+    "platform": "twitter",
+    "url": "https://twitter.com/DentonLeft",
+    "icon": "twitter.svg"
+  },
+  {
+    "platform": "facebook",
+    "url": "https://www.facebook.com/DentonLeft",
+    "icon": "facebook.svg"
+  },
+  {
+    "platform": "instagram",
+    "url": "https://www.instagram.com/dentonleft/",
+    "icon": "instagram.svg"
+  }
+]
