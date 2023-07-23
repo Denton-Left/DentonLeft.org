@@ -14,8 +14,8 @@ module.exports = {
     },
 
     {
-      test: 'Calender',
-      url: '/calender/'
+      text: 'Calendar',
+      url: '/calendar/'
     }
   ],
   bottom: [
