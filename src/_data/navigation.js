@@ -4,10 +4,12 @@ module.exports = {
       text: 'About',
       url: '/about/'
     },
+    /*
     {
       text: 'Blog',
       url: '/blog/'
     },
+    */
     {
       text: 'Zines',
       url: '/zines/'
