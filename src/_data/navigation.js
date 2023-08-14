@@ -4,18 +4,20 @@ module.exports = {
       text: 'About',
       url: '/about/'
     },
+    /*
     {
       text: 'Blog',
       url: '/blog/'
     },
+    */
     {
       text: 'Zines',
       url: '/zines/'
     },
 
     {
-      test: 'Calender',
-      url: '/calender/'
+      text: 'Calendar',
+      url: '/calendar/'
     }
   ],
   bottom: [
