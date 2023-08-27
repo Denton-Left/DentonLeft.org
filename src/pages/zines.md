@@ -13,4 +13,4 @@ Zines:
 - [Tendencies 1st Edition](/assets/zines/Tendencies_Ver1.pdf)
 - [Tendencies 2nd Edition](/assets/zines/Tendency_Ver2.pdf)
 - [Star and Square: The Organizational Philosophy of the Denton Left](/assets/zines/Star_and_Square-1.pdf)
-- [What is a Labor Union? And Why You Should Join One](/assets/zines/What_is_a_Labor_Union.pdf)
+- [What is a Labor Union? And Why You Should Join One](../assets/zines/What_is_a_Labor_Union.pdf)
